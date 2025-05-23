@@ -59,18 +59,18 @@
     "icon": "https://assets.coingecko.com/coins/images/25244/standard/Optimism.png",
     "slug": "optimism-mainnet",
     "status": "down",
-    "uptime": "86.41%",
-    "uptimeDay": "54.37%",
-    "uptimeWeek": "86.41%",
-    "uptimeMonth": "86.41%",
-    "uptimeYear": "86.41%",
+    "uptime": "85.87%",
+    "uptimeDay": "52.27%",
+    "uptimeWeek": "85.87%",
+    "uptimeMonth": "85.87%",
+    "uptimeYear": "85.87%",
     "time": 831,
     "timeDay": 1941,
     "timeWeek": 831,
     "timeMonth": 831,
     "timeYear": 831,
     "dailyMinutesDown": {
-      "2025-05-23": 657
+      "2025-05-23": 687
     }
   },
   {
@@ -90,7 +90,7 @@
     "timeMonth": 409,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2025-05-23": 1077,
+      "2025-05-23": 1108,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 877
@@ -131,7 +131,7 @@
     "timeMonth": 387,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2025-05-23": 1077,
+      "2025-05-23": 1108,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 877
@@ -196,19 +196,19 @@
     "url": "https://linea-sepolia.gateway.unruggable.com",
     "icon": "https://linea.build/_next/static/media/logomark.1510dc60.svg",
     "slug": "linea-sepolia",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 729,
-    "timeDay": 1460,
-    "timeWeek": 729,
-    "timeMonth": 729,
-    "timeYear": 729,
+    "status": "up",
+    "uptime": "99.38%",
+    "uptimeDay": "97.89%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
+    "time": 744,
+    "timeDay": 1255,
+    "timeWeek": 744,
+    "timeMonth": 744,
+    "timeYear": 744,
     "dailyMinutesDown": {
-      "2025-05-23": 0
+      "2025-05-23": 30
     }
   },
   {
