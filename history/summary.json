@@ -58,18 +58,20 @@
     "url": "https://optimism.gateway.unruggable.com",
     "icon": "https://assets.coingecko.com/coins/images/25244/standard/Optimism.png",
     "slug": "optimism-mainnet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 420,
-    "timeDay": 588,
-    "timeWeek": 420,
-    "timeMonth": 420,
-    "timeYear": 420,
-    "dailyMinutesDown": {}
+    "time": 831,
+    "timeDay": 1941,
+    "timeWeek": 831,
+    "timeMonth": 831,
+    "timeYear": 831,
+    "dailyMinutesDown": {
+      "2025-05-23": 0
+    }
   },
   {
     "name": "Linea Mainnet",
@@ -88,7 +90,7 @@
     "timeMonth": 409,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2025-05-23": 106,
+      "2025-05-23": 420,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 877
@@ -129,7 +131,7 @@
     "timeMonth": 387,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2025-05-23": 106,
+      "2025-05-23": 420,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 877
