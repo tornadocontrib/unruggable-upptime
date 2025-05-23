@@ -4,18 +4,20 @@
     "url": "https://tornadowithdraw.eth.limo",
     "icon": "https://assets.coingecko.com/coins/images/13496/standard/ZINt8NSB_400x400.jpg",
     "slug": "ens-ipfs-website-tornadowithdraw-eth-limo",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1216,
-    "timeDay": 814,
-    "timeWeek": 1216,
-    "timeMonth": 1216,
-    "timeYear": 1216,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 4004,
+    "timeDay": 7985,
+    "timeWeek": 4004,
+    "timeMonth": 4004,
+    "timeYear": 4004,
+    "dailyMinutesDown": {
+      "2025-05-23": 1
+    }
   },
   {
     "name": "Arbitrum One Mainnet",
@@ -40,18 +42,20 @@
     "url": "https://base.gateway.unruggable.com",
     "icon": "https://raw.githubusercontent.com/base-org/brand-kit/refs/heads/main/logo/symbol/Base_Symbol_Blue.png",
     "slug": "base-mainnet",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 466,
-    "timeDay": 695,
-    "timeWeek": 466,
-    "timeMonth": 466,
-    "timeYear": 466,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1928,
+    "timeDay": 5698,
+    "timeWeek": 1928,
+    "timeMonth": 1928,
+    "timeYear": 1928,
+    "dailyMinutesDown": {
+      "2025-05-23": 1
+    }
   },
   {
     "name": "Optimism Mainnet",
@@ -59,18 +63,18 @@
     "icon": "https://assets.coingecko.com/coins/images/25244/standard/Optimism.png",
     "slug": "optimism-mainnet",
     "status": "down",
-    "uptime": "85.87%",
-    "uptimeDay": "52.27%",
-    "uptimeWeek": "85.87%",
-    "uptimeMonth": "85.87%",
-    "uptimeYear": "85.87%",
+    "uptime": "85.29%",
+    "uptimeDay": "49.99%",
+    "uptimeWeek": "85.29%",
+    "uptimeMonth": "85.29%",
+    "uptimeYear": "85.29%",
     "time": 831,
     "timeDay": 1941,
     "timeWeek": 831,
     "timeMonth": 831,
     "timeYear": 831,
     "dailyMinutesDown": {
-      "2025-05-23": 687
+      "2025-05-23": 720
     }
   },
   {
@@ -90,7 +94,7 @@
     "timeMonth": 409,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2025-05-23": 1108,
+      "2025-05-23": 1140,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 877
@@ -131,7 +135,7 @@
     "timeMonth": 387,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2025-05-23": 1108,
+      "2025-05-23": 1140,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 877
