@@ -1,7 +1,7 @@
 url: https://base.gateway.unruggable.com
-status: down
-code: 502
-responseTime: 10257
-lastUpdated: 2025-06-08T16:53:42.648Z
+status: up
+code: 200
+responseTime: 297
+lastUpdated: 2025-06-08T17:29:04.703Z
 startTime: 2025-05-20T09:23:07.008Z
 generator: Upptime <https://github.com/upptime/upptime>
