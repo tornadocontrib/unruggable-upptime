@@ -1,7 +1,7 @@
 url: https://base-sepolia.gateway.unruggable.com
-status: down
-code: 502
-responseTime: 9251
-lastUpdated: 2025-07-24T02:18:58.835Z
+status: up
+code: 200
+responseTime: 654
+lastUpdated: 2025-07-24T03:45:34.902Z
 startTime: 2025-05-20T09:23:13.649Z
 generator: Upptime <https://github.com/upptime/upptime>
