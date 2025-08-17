@@ -1,7 +1,7 @@
 url: https://optimism.gateway.unruggable.com
-status: down
-code: 502
-responseTime: 10240
-lastUpdated: 2025-08-17T22:47:40.692Z
+status: up
+code: 200
+responseTime: 482
+lastUpdated: 2025-08-17T22:56:55.350Z
 startTime: 2025-05-20T09:23:07.912Z
 generator: Upptime <https://github.com/upptime/upptime>
