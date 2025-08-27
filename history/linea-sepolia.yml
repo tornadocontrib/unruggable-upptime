@@ -1,7 +1,7 @@
 url: https://linea-sepolia.gateway.unruggable.com
-status: down
-code: 502
-responseTime: 10260
-lastUpdated: 2025-08-27T08:56:17.569Z
+status: up
+code: 200
+responseTime: 421
+lastUpdated: 2025-08-27T09:19:16.863Z
 startTime: 2025-05-20T09:23:15.392Z
 generator: Upptime <https://github.com/upptime/upptime>
