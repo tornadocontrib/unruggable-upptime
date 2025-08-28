@@ -1,7 +1,7 @@
 url: https://linea.gateway.unruggable.com
-status: down
-code: 500
-responseTime: 10634
-lastUpdated: 2025-08-28T11:59:52.207Z
+status: up
+code: 200
+responseTime: 339
+lastUpdated: 2025-08-28T12:53:31.155Z
 startTime: 2025-05-20T09:23:08.522Z
 generator: Upptime <https://github.com/upptime/upptime>
