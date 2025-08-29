@@ -1,7 +1,7 @@
 url: https://optimism-sepolia.gateway.unruggable.com
 status: down
-code: 500
-responseTime: 285
-lastUpdated: 2025-08-28T23:21:21.808Z
+code: 502
+responseTime: 10741
+lastUpdated: 2025-08-29T23:21:01.023Z
 startTime: 2025-05-20T09:23:14.296Z
 generator: Upptime <https://github.com/upptime/upptime>
